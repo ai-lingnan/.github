@@ -2,7 +2,7 @@
 
 ## Economics & Finance × AI Agent research and practice.
 
-![AI Lingnan](https://raw.githubusercontent.com/ai-lingnan/.github/main/assets/cover.png)
+![AI Lingnan](https://raw.githubusercontent.com/ai-lingnan/.github/main/assets/cover.webp)
 
 ## Projects
 
