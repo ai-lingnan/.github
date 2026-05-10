@@ -1,3 +1,5 @@
+[中文](README-zh.md) | **English**
+
 # 👋 Welcome to **AI Lingnan**
 
 ## Economics & Finance × AI Agent research and practice.
