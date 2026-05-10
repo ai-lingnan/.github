@@ -1,6 +1,6 @@
 # 👋 Welcome to **AI Lingnan**
 
-Economics & Finance × AI Agent research and practice.
+## Economics & Finance × AI Agent research and practice.
 
 ## Projects
 
