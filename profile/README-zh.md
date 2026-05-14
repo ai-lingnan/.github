@@ -10,7 +10,7 @@
 
 我们是中山大学岭南学院的师生。在这里，我们探索 AI 如何真正融入经济学研究、课堂教学和日常学术工作流。我们相信，理解 AI 最好的方式是亲手去用它、构建它。
 
-![AI Lingnan](https://raw.githubusercontent.com/ai-lingnan/.github/main/assets/cover-zh.webp)
+![AI Lingnan](https://raw.githubusercontent.com/ai-lingnan/.github/main/assets/cover.webp)
 
 ## 我们在做什么
 
