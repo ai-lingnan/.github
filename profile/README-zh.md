@@ -14,33 +14,27 @@
 
 ## 我们在做什么
 
+### [ai.lingnan.top](https://ai.lingnan.top/)
+
+《经济金融智能体设计》是中山大学岭南学院开设的一门 AI 原生课程，适合所有对 AI 感兴趣的学习者。课程围绕「如何为经济金融场景设计可落地的 AI 智能体」展开，从原理、方法到场景实践，分三层讲。本站汇聚课程大纲、教材与配套教学资源。
+
+---
+
+### [课程教材](https://ai.lingnan.top/book/)
+
+《经济金融智能体设计：从原理、方法到场景实践》。24 章实践教材，由人与 AI 智能体协作编写，涵盖智能体设计、提示词工程、多智能体编排、自动化办公、投研系统和学术研究自动化。
+
+---
+
 ### [econai-agent-platform](https://github.com/ai-lingnan/econai-agent-platform)
 
 经济金融 AI 智能体课程平台。教师发布作业，学生在线提交，AI 双 Agent 并行评审并产出结构化反馈。内置 AI 助教、学习资源管理、课程分享投票和数据库备份。已部署上线，真实服务于课堂教学。
 
 ---
 
-### [ai-workbench](https://github.com/ai-lingnan/ai-workbench)
-
-AI 驱动的自动化办公工作区——PPT、Excel、Word，Claude Code 替你打工。把重复性的文档生产交给 AI，人只负责审核和决策。
-
----
-
 ### [sysu-awesome-cc](https://github.com/ai-lingnan/sysu-awesome-cc)
 
 中山大学岭南学院师生共同维护的 Claude Code 插件和工具集合。包括论文审稿 Agent、网络研究 Agent、演示文稿制作、PDF 转换、聊天历史总结等实用技能。
-
----
-
-### [literature-wiki](https://github.com/ai-lingnan/literature-wiki)
-
-AI 原生的文献知识库模板。不是 PDF 归档，也不是 RAG 检索——而是让 AI 持续维护一个活的、交叉引用的学术 Wiki。每加入一篇新论文，相关的概念页、机制页、综述页都会同步更新。
-
----
-
-### [AiNote](https://github.com/ai-lingnan/AiNote)
-
-AI 原生笔记系统。搭配 Claude Code 和 Obsidian 使用，把一段原始输入交给 AI，它会分析内容、搜索相关笔记、决定归档位置、创建或更新 Markdown 文件并维护索引。从记录到归档，全程 AI 驱动。
 
 ---
 
